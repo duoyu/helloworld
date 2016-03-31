@@ -8,13 +8,7 @@ int main(void)
 	printf("I am a new line?\n");
 	printf("I am a new line?\n");
 	printf("I am a new line?\n");
-	printf("I am a new line?\n");
-	printf("I am a new line?\n");
-	printf("I am a new line?\n");
-	printf("I am a new line?\n");
-	printf("I am a new line?\n");
-	printf("I am a new line?\n");
-	printf("I am a new line?\n");
+	printf("dakjdhsakdhakhdkahska\n");
 
 	return 0;
 }
